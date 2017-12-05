@@ -2,8 +2,8 @@
  * This global array holds our collection of albums
  */
 var albums = [{
-  title: "The White Album",
-  band:  "The Beatles",
+  title: "Blue Slide Park",
+  band:  "Mac Miller",
   year:  1968
 }];
 
